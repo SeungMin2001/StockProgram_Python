@@ -1,2 +1,3 @@
 # StockProgram_Python
-Kiwoom_StockProgram_Python and Dart_Fss API use
+
+키움증권 API, Dart API 를 사용한 자동매매 프로그램
