@@ -5,7 +5,7 @@ from PyQt5.QtTest import *
 class Kiwoom(QAxWidget):
     def __init__(self):
         super().__init__()
-        print("키움")
+        print("키움")s
 
         ########### eventloop 모음
         self.login_event_loop = None
