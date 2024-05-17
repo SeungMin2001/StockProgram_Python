@@ -3,6 +3,7 @@ class Main():
     def __init__(self):
         print("메인")
 #test
+        print("test")
         Ui_class()
 
 
