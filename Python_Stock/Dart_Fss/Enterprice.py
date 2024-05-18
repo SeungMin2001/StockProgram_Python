@@ -14,7 +14,7 @@ class Dart():
                 return True
 
 
-if __name__=="__main__": #메인 실행파일 명시
+if __name__=="__main__": 
     Dart()
 
         
