@@ -1,5 +1,5 @@
 import dart_fss as dart
-class Main():
+class Dart():
     def __init__(self):
         self.api_key = '2c62c26d0182d996a0bad19b99513c5db41cc4df'
         dart.set_api_key(api_key=self.api_key)
@@ -15,7 +15,7 @@ class Main():
 
 
 if __name__=="__main__": #메인 실행파일 명시
-    Main()
+    Dart()
 
         
 
